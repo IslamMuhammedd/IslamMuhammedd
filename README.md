@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam Muhammed</h1>
-<h3 align="center">Passionate and self-driven Artificial Intelligence engineer. Has strong theoretical and mathematical background, with +1 year experience and hands on projects in data processing, visualization, predictive modeling and deep learning.</h3>
+<h3 align="center">Self-driven Artificial Intelligence engineer. Has strong theoretical and mathematical background, with +1 year experience in data processing, visualization, predictive modeling and deep learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islammuhammedd&label=Profile%20views&color=0e75b6&style=flat" alt="islammuhammedd" /> </p>
 
