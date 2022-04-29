@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **ITI Ministry of Communication and Information Technology, Egypt**
 
-- 📫 How to reach me **islammuhammed1996@gmail.com || islam-muhammed-63b89518b/**
+- 📫 How to reach me **islammuhammed1996@gmail.com || <a href="https://linkedin.com/in/islam-muhammed-63b89518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-muhammed-63b89518b/" height="30" width="40" /></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
