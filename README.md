@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islammuhammedd&label=Profile%20views&color=0e75b6&style=flat" alt="islammuhammedd" /> </p>
 
 - 🔭 Data Scientist at **Synapse Analytics**
-- 🔭 AI Instructor at **ITI Ministry of Communication and Information Technology, Egypt**
+- 🔭 AI Instructor at **ITI Ministry of Communications and Information Technology, Egypt**
 
 - 📫 How to reach me **islammuhammed1996@gmail.com || <a href="https://linkedin.com/in/islam-muhammed-63b89518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-muhammed-63b89518b/" height="30" width="40" /></a>**
 
